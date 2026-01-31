@@ -1,0 +1,8 @@
+They are rule based system
+agr yay scenario hu tou yay hu warn jo hu usy defince
+yay rule based syste per chalta hai
+Tree or graph they are non parametrized 
+
+decsion tree may her attrbute ki impurity calculate kerty  hai
+information
+genesis
